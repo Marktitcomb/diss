@@ -1,0 +1,16 @@
+INSERT INTO roombookings.rooms(`Name`, `Pens`, `Computers`, `Building`)
+VALUES ('1.2', '4', '4', 'Chancellors'),
+('2.0', '4', '4', 'Chancellors'),
+('2.1', '5', '7', 'Chancellors'),
+('2.2', '2', '6', 'Chancellors'),
+('2.3', '1', '5', 'Chancellors'),
+('2.4', '2', '6', 'Chancellors'),
+('2.5', '3', '4', 'Chancellors'),
+('3.0', '2', '5', 'Chancellors'),
+('3.1', '5', '0', 'Chancellors'),
+('3.2', '7', '3', 'Chancellors'),
+('3.3', '1', '9', 'Chancellors'),
+('4.0', '2', '30', 'Chancellors'),
+('4.1', '5', '17', 'Chancellors'),
+('4.2', '7', '15', 'Chancellors'),
+('4.3', '1', '20', 'Chancellors');
